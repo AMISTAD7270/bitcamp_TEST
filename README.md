@@ -1,1 +1,14 @@
-# bitcamp_TEST
+# 비트캠프 권우정
+![미니 프로젝트 1](https://user-images.githubusercontent.com/89093276/144549197-601a7301-ce1b-49bd-8723-324c4be65a90.PNG)
+![미니 프로젝트 2](https://user-images.githubusercontent.com/89093276/144549235-a7b3e406-ab8a-4e71-84ec-90a5d13e12a0.PNG)
+![미니 프로젝트 3](https://user-images.githubusercontent.com/89093276/144549244-d45f3324-a62a-408c-b49f-c62f1ec74c3b.PNG)
+![미니 프로젝트 4](https://user-images.githubusercontent.com/89093276/144549247-c8d9b23e-2111-4a6d-b543-ce20cda4c62b.PNG)
+![미니 프로젝트 5](https://user-images.githubusercontent.com/89093276/144549253-73b877bc-7ccf-461a-9740-40271338d6e0.PNG)
+![미니 프로젝트 6](https://user-images.githubusercontent.com/89093276/144549256-d0359430-158a-423b-ac07-aa6bee0a3de8.PNG)
+![미니 프로젝트 7](https://user-images.githubusercontent.com/89093276/144549262-5f9da8f5-56ff-425e-88c0-d04d35b62636.PNG)
+![미니 프로젝트 8](https://user-images.githubusercontent.com/89093276/144549265-5d3a6af2-cae2-47f9-af68-b85e6a84863f.PNG)
+![미니 프로젝트 9](https://user-images.githubusercontent.com/89093276/144549268-9eafe83b-4558-40fa-86f5-55cd2107893e.PNG)
+![미니 프로젝트 10](https://user-images.githubusercontent.com/89093276/144549269-f97e45d0-f593-4c89-9837-9b5566bf6134.PNG)
+![미니 프로젝트 11](https://user-images.githubusercontent.com/89093276/144549271-46fa7174-9cf4-4cd7-bf40-ceb93f4dbca2.PNG)
+![미니 프로젝트 12](https://user-images.githubusercontent.com/89093276/144549276-776698ef-5bbf-4b57-90e8-96f507fe8a94.PNG)
+![미니 프로젝트 13](https://user-images.githubusercontent.com/89093276/144549278-38fe74ef-254f-4652-a9cf-7a6288c94fcb.PNG)
